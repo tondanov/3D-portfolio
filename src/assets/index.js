@@ -15,6 +15,7 @@ import cvapp from "./cvapp.png";
 import eshop from "./eshop.png";
 import searchbar from "./searchbar.png";
 import lectureeasily from "./lectureeasily.png";
+import awwwards from "./awwards.png";
 
 export {
   logo,
@@ -32,4 +33,5 @@ export {
   eshop,
   live,
   lectureeasily,
+  awwwards,
 };

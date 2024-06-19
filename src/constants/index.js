@@ -8,6 +8,7 @@ import {
   cvapp,
   eshop,
   searchbar,
+  awwwards,
   lectureeasily,
 } from "../assets";
 
@@ -100,20 +101,22 @@ const projects = [
     source_live_link: "https://lecture-easily.vercel.app",
   },
   {
-    name: "Search Bar",
-    description: "Projekt, který mi ukázal jak pracovat s API.",
+    name: "Awwwards",
+    description:
+      "Projekt, ve kterém jsem převáděl návrh z Figmy do funkčního webu ",
     tags: [
       {
-        name: "react",
+        name: "nextjs",
         color: "blue-text-gradient",
       },
       {
-        name: "api",
+        name: "tailwind",
         color: "pink-text-gradient",
       },
     ],
-    image: searchbar,
-    source_code_link: "https://github.com/tondanov/SearchBar-API",
+    image: awwwards,
+    source_code_link: "https://github.com/tondanov/Awwwards",
+    source_live_link: "https://awards-pi.vercel.app",
   },
 ];
 
