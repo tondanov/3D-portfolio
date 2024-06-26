@@ -16,6 +16,7 @@ import eshop from "./eshop.png";
 import searchbar from "./searchbar.png";
 import lectureeasily from "./lectureeasily.png";
 import awwwards from "./awwards.png";
+import travelapp from "./travelapp.png";
 
 export {
   logo,
@@ -34,4 +35,5 @@ export {
   live,
   lectureeasily,
   awwwards,
+  travelapp,
 };

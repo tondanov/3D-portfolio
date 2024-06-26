@@ -10,6 +10,7 @@ import {
   searchbar,
   awwwards,
   lectureeasily,
+  travelapp,
 } from "../assets";
 
 export const navLinks = [
@@ -117,6 +118,23 @@ const projects = [
     image: awwwards,
     source_code_link: "https://github.com/tondanov/Awwwards",
     source_live_link: "https://awards-pi.vercel.app",
+  },
+  {
+    name: "Travel App",
+    description: "Jednoduchá  stránka s použitím NextJS a TailwindCSS ",
+    tags: [
+      {
+        name: "nextjs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: travelapp,
+    source_code_link: "https://github.com/tondanov/travel-app",
+    source_live_link: "https://travel-app-omega-three.vercel.app",
   },
 ];
 
